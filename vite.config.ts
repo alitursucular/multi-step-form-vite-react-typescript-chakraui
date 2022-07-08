@@ -5,6 +5,6 @@ import eslint from "vite-plugin-eslint";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  //   plugins: [eslint(), react()],
+  base: "/multi-step-form-vite-react-typescript-chakraui/",
   plugins: [eslint(), tsconfigPaths(), react()],
 });
