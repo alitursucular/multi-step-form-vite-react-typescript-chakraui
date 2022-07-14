@@ -1,6 +1,7 @@
 {
   "name": "multi-step-form-vite-react-typescript-chakraui",
   "private": true,
+  "homepage": "https://alitursucular.github.io/multi-step-form-vite-react-typescript-chakraui",
   "version": "0.0.0",
   "description": "Building a multi-step form using Vite, React, TypeScript and Chakra UI",
   "scripts": {
