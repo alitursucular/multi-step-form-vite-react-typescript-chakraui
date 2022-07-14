@@ -9,9 +9,12 @@ The demo shows the simplest use case using the most common form elements. You ca
 
 🚀 See it in action: [https://alitursucular.github.io/multi-step-form-vite-react-typescript-chakraui](https://alitursucular.github.io/multi-step-form-vite-react-typescript-chakraui)
 
+## Run this project on your local:
 
----
-
-Run this project: `yarn && yarn dev`
+```bash
+$ git clone git@github.com:alitursucular/multi-step-form-vite-react-typescript-chakraui.git
+$ cd multi-step-form-vite-react-typescript-chakraui
+$ yarn && yarn dev
+```
 
 Note: This project uses nvm (for Mac users), and the required node version can be found in _.nvmrc_
